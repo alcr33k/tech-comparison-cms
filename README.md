@@ -1,6 +1,6 @@
 # Tech Comparison CMS
 
-Tech Comparison CMS is a content management system built with Nuxt.js and styled using TailwindCSS. It's designed to work seamlessly with the `tech-comparison-backend`, providing a user-friendly interface for managing and updating articles related to technology comparisons.
+Tech Comparison CMS is a content management system built with Nuxt.js and styled using TailwindCSS. It's designed to work seamlessly with the [tech-comparison-backend](https://github.com/alcr33k/tech-comparison-backend), providing a user-friendly interface for managing and updating articles related to technology comparisons.
 
 ## Features
 
@@ -16,11 +16,11 @@ Tech Comparison CMS is a content management system built with Nuxt.js and styled
 
 ## Installation
 
-First, ensure that the `tech-comparison-backend` project is set up in a sibling directory to this project.
+First, ensure that the [tech-comparison-backend](https://github.com/alcr33k/tech-comparison-backend) project is set up in a sibling directory to this project.
 
 Then clone this repository:
 
-    git clone https://github.com/yourusername/tech-comparison-cms.git
+    git clone https://github.com/alcr33k/tech-comparison-cms
     cd tech-comparison-cms
 
 Install dependencies:
